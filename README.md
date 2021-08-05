@@ -1,2 +1,2 @@
 # Color Generator
-A random color generator :art: build using `HTML` , `CSS` and `JavaScript`.
+A random color generator :art: built using `HTML` , `CSS` and `JavaScript`.
